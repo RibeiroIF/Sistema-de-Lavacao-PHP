@@ -86,7 +86,7 @@
      <p> Desenvolvimento web - CTDS - Web Design, turma do semestre 2025/1 <br>
      Copyright &copy;2025 - todos os direitos reservados. Proibida a reprodução parcial ou total do conteúdo presente nesta aplicação. <br>
 
-     <a href="homepage.html"> Retorne à página inicial </a> 
+     <a href="homepage.php"> Retorne à página inicial </a> 
      </p>
   </footer>
 

@@ -34,7 +34,7 @@
 
    <p> Veículo cadastrado com sucesso! </p>
 
-   <form action="../html/cadastro-veiculo.html" method="post">
+   <form action="../php/cadastro-veiculo.php" method="post">
     <button> Cadastrar outro veículo </button>
    </form>
   </main>

@@ -92,7 +92,7 @@
      <p> Desenvolvimento web - CTDS - Web Design, turma do semestre 2025/1 <br>
      Copyright &copy;2025 - todos os direitos reservados. Proibida a reprodução parcial ou total do conteúdo presente nesta aplicação. <br>
 
-     <a href="contato-empresa.html"> Entre em contato conosco </a> 
+     <a href="contato-empresa.php"> Entre em contato conosco </a> 
      </p>
 
      <?php 

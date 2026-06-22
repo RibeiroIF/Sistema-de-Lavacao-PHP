@@ -37,7 +37,7 @@
 
    <p> Cliente cadastrado com sucesso! </p>
 
-   <form class="form" action="../html/cadastro-cliente.html" method="post">
+   <form class="form" action="../php/cadastro-cliente.php" method="post">
     <button class="button"> Cadastrar outro cliente </button>
    </form>
   </main>
